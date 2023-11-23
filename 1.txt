@@ -1,1 +1,1 @@
-lorem_ipsum 
+print("Hello world!") 
